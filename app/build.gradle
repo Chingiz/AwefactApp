@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.0.0'
+
+    defaultConfig {
+        applicationId "devstudio.awefact"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 3
+        versionName "1.2"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('volley.jar')
+    compile 'com.google.android.gms:play-services:5.+'
+    //compile 'com.github.gabrielemariotti.cards:library:1.9.1'
+    //compile 'com.github.gabrielemariotti.cards:library-extra:1.9.1'
+    //compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    compile 'com.melnykov:floatingactionbutton:1.0.6'
+}
