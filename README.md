@@ -1,2 +1,2 @@
 # AwefactApp
-Awefact is collecting facts about number from json url. It's experimental app and published on play store.
+Awefact is collecting facts about numbers from json url. It's experimental app and published on play store.
