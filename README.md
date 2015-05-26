@@ -11,5 +11,5 @@ https://play.google.com/store/apps/details?id=devstudio.awefact
 <img src = "https://lh3.ggpht.com/bpf-tqQrzJyus4CIaEuJPEOI_Ghx4QVlDQqBlUXpOW3PJ82MAVzu3pBrYS5yyGORZf0=h310">
 <img src = "https://lh6.ggpht.com/cP1NZ6O89VdDVnSIsgspnij8x0jY1bBFyLGDTL5ThpBXLG6d_2z8lznaJvR60eeZBEo=h310">
 
-#Bugs
+#Bugs (bug fixed)
 1. Action bar is not working properly on Android Lollipop
