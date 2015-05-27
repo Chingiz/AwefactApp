@@ -13,3 +13,6 @@ https://play.google.com/store/apps/details?id=devstudio.awefact
 
 # Bugs
 1. Action bar is not working properly on Android Lollipop (fixed)
+
+# Details
+This app is experimental app and it's the example of using Volley and some other libraries.
