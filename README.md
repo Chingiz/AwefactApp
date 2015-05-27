@@ -6,10 +6,10 @@ Biggest archive of daily facts. This free app gives you thousands of strange, co
 
 https://play.google.com/store/apps/details?id=devstudio.awefact
 
-<img src = "https://lh6.ggpht.com/RH8VG4cnAbQzMtwHoGye6xLxqbB77-7HL9b9Xgwq4hezVQXVeytCyELp_c7FeJAZiqI=h310">
-<img src = "https://lh6.ggpht.com/JfEQCYjm3zbMXboCBSPk1OsL_wN1xcwetIL9Son09k7Yon2VmuXKHXYzuIWT23-5yA=h310">
-<img src = "https://lh3.ggpht.com/bpf-tqQrzJyus4CIaEuJPEOI_Ghx4QVlDQqBlUXpOW3PJ82MAVzu3pBrYS5yyGORZf0=h310">
-<img src = "https://lh6.ggpht.com/cP1NZ6O89VdDVnSIsgspnij8x0jY1bBFyLGDTL5ThpBXLG6d_2z8lznaJvR60eeZBEo=h310">
+<img src = "https://lh3.googleusercontent.com/UY1JykMgYctNIKPLRLgMNDe4uWIHxhyvTLZ3MuMaUfeEFR6qPbegnhJAaB4SDxnBHIs=h900">
+<img src = "https://lh3.googleusercontent.com/ptwfMOGo4os9xHHtXdkIJL6iNl80RhJGumx0xEWAWcVw3RiNaZhE7EQNFZqMdF7q6w=h900">
+<img src = "https://lh3.googleusercontent.com/42JakptV5kbNdoZOi2GBnylB50INZb98PsouUsVYhoSZ0xSbgdbEN3TqG2NCwScALdI=h900">
+<img src = "https://lh3.googleusercontent.com/-Zm9ZfoPXcEbzFs6ltNFNjqDXg8C6ob0Y3WBr5ndkFgCMaLLVbaFJKUSUqF8RDv9hVl6=h900">
 
-#Bugs (bug fixed)
-1. Action bar is not working properly on Android Lollipop
+# Bugs
+1. Action bar is not working properly on Android Lollipop (fixed)
